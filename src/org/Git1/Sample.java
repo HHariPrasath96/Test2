@@ -18,7 +18,8 @@ public class Sample {
 	
 	
 	
-	
+	private void method9() {
+        System.out.println("red");
 	
 	
 	
