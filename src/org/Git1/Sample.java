@@ -20,6 +20,9 @@ public class Sample {
 	
 	private void method9() {
         System.out.println("red");
+	}
+	private void method4() {
+        System.out.println("michle");
 	
 	
 	
@@ -34,5 +37,6 @@ public class Sample {
 	
 	
 	
-
+	
+	}
 }
