@@ -17,7 +17,8 @@ public class Sample {
 	}
 	
 	
-	
+	private void method4() {
+        System.out.println("michle");
 	
 	
 	
